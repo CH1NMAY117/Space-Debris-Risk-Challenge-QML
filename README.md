@@ -2,7 +2,7 @@
 
 A Qiskit notebook that classifies the collision risk of space-debris encounters with a **quantum kernel support vector machine (QSVM)** and compares it with a classical RBF-kernel SVM.
 
-This was the final project of an 8-week quantum machine learning course run by the Quantum Tech Community and 4i Labs at IIT Guwahati, completed within one week. [Open the notebook in Colab](https://colab.research.google.com/github/CH1NMAY117/Space-Debris-Risk-Challenge-QML/blob/main/QML_Chinmay_Qiskit.ipynb).
+This was the final project of an 8-week quantum machine learning course run by the Quantum Tech Community and 4i Labs at IIT Guwahati, completed within one week (Jun–Jul 2025). [Open the notebook in Colab](https://colab.research.google.com/github/CH1NMAY117/Space-Debris-Risk-Challenge-QML/blob/main/QML_Chinmay_Qiskit.ipynb).
 
 ## Approach
 
