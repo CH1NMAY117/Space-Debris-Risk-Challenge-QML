@@ -32,6 +32,6 @@ pip install qiskit==0.44.0 qiskit-aer==0.12.0 qiskit-machine-learning==0.6.1 sci
 - Feature selection is by column order, not by importance.
 - Simulator only; no quantum hardware was used.
 
-## Licence
+## License
 
 [MIT](LICENSE)
